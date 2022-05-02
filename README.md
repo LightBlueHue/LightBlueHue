@@ -4,10 +4,10 @@ Hi 👋 My name is LightBlueHue
 C# and Go dev
 -------------
 
-A backend developer for 9years+. Fluent in C#, .net6, Web APIs and WPF Working with Go and react on the side
+A backend developer for 9years+. Fluent in C#, .net6, Web APIs and WPF. Working with Go and react on the side
 
 * 🌍  I'm based in UK working remotely
-* 🧠  I'm learning Go and React. I've utilized the revel framework with gorm
+* 🧠  I'm working with Go and React. I've utilized the revel framework with gorm
 * 🤝  I'm open to collaborating on Go projects
 
 ### Skills

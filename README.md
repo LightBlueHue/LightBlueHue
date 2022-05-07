@@ -1,4 +1,4 @@
-Hi 👋 My name is LightBlueHue
+Hi 👋 I am LightBlueHue
 =============================
 
 C# and Go dev
